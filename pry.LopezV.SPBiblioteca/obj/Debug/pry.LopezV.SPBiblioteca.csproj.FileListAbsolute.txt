@@ -1,0 +1,24 @@
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.exe.config
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.frmConsultaLibros.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.frmInicio.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.pdb
+D:\Escritorio\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.exe.config
+D:\Escritorio\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.exe
+D:\Escritorio\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.pdb
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.frmConsultaLibros.resources
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.frmInicio.resources
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.Properties.Resources.resources
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.GenerateResource.cache
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.exe
+D:\Escritorio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.pdb
