@@ -24,11 +24,13 @@ namespace pry.LopezV.SPBiblioteca
 
         private void frmConsultaLibros_Load(object sender, EventArgs e)
         {
-
+            //a la variable separador la vinculo con el caracter "," que lo utilizare para separar las lineas en el txt
             char separador = Convert.ToChar(",");
+            //Contador para mover las filas de la matriz 
             int i = 0;
 
-            StreamReader objLector = new StreamReader("./LIBRO.txt");
+            //Leer que contiene el archivo txt 
+            StreamReader objLector = new StreamReader("./LIBRO.txt", true);
             
 
             //Mientras el no esté en la posicion final del archivo leer y separar cada linea
@@ -61,6 +63,7 @@ namespace pry.LopezV.SPBiblioteca
             txtCodigoAut.Text = baseLibro[0,3];
             txtCodigoDistr.Text = baseLibro[0,4];
 
+            //Desactivar el cmd retroceder cuando i = 0 
             cmdRetroceder.Enabled = false;
             
         }
@@ -73,6 +76,7 @@ namespace pry.LopezV.SPBiblioteca
             //Incrementar el contador para recorrer la base de datos
             contador++;
 
+            //Mostrar la informacion que contiene la matriz en los txt 
 
             txtCodigo.Text = baseLibro[contador, 0];
             txtNombre.Text = baseLibro[contador, 1];
@@ -95,6 +99,7 @@ namespace pry.LopezV.SPBiblioteca
             //Decremento del contador para regresar hacia atras
             contador--;
 
+            //Si contador es menor o igual que 0 decrementa y muestra en el txt la informacion de la matriz
             if (contador >= 0)
             {
                 txtCodigo.Text = baseLibro[contador, 0];
@@ -109,6 +114,7 @@ namespace pry.LopezV.SPBiblioteca
                     cmdRetroceder.Enabled = false;
                 }
             }
+            //sino habilitar control retroceder
             else
             {
                 cmdRetroceder.Enabled = true;
