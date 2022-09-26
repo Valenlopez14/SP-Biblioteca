@@ -42,7 +42,7 @@ namespace pry.LopezV.SPBiblioteca
 
                 if (i < 20)
                 {
-                    //EL vector carga la informacion del libro en las columnas de la mat
+                    //Las columnas de la matriz cargan la informacion al vector 
 
                     baseLibro[i, 0] = vecLibro[0];
                     baseLibro[i, 1] = vecLibro[1];
