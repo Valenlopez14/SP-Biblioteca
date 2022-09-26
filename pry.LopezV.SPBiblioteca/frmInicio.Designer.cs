@@ -56,7 +56,7 @@
             // libroToolStripMenuItem
             // 
             this.libroToolStripMenuItem.Name = "libroToolStripMenuItem";
-            this.libroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.libroToolStripMenuItem.Size = new System.Drawing.Size(101, 22);
             this.libroToolStripMenuItem.Text = "Libro";
             this.libroToolStripMenuItem.Click += new System.EventHandler(this.libroToolStripMenuItem_Click);
             // 
@@ -68,7 +68,8 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmInicio";
-            this.Text = "Form1";
+            this.Text = "Inicio";
+            this.Load += new System.EventHandler(this.frmInicio_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

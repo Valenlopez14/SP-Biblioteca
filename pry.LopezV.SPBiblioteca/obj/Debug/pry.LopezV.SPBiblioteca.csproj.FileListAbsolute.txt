@@ -46,3 +46,15 @@ C:\Users\valen\OneDrive\Escritorio\repos sp1 biblio\pry.LopezV.SPBiblioteca\obj\
 C:\Users\valen\OneDrive\Escritorio\repos sp1 biblio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.CoreCompileInputs.cache
 C:\Users\valen\OneDrive\Escritorio\repos sp1 biblio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.exe
 C:\Users\valen\OneDrive\Escritorio\repos sp1 biblio\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.pdb
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.exe.config
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.exe
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\bin\Debug\pry.LopezV.SPBiblioteca.pdb
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.frmConsultaLibros.resources
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.frmInicio.resources
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.exe
+C:\Users\valen\OneDrive\Escritorio\adsada\pry.LopezV.SPBiblioteca\obj\Debug\pry.LopezV.SPBiblioteca.pdb

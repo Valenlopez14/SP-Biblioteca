@@ -27,5 +27,10 @@ namespace pry.LopezV.SPBiblioteca
             frmConsultaLibros frmConsultaLibros = new frmConsultaLibros();
             frmConsultaLibros.ShowDialog();
         }
+
+        private void frmInicio_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

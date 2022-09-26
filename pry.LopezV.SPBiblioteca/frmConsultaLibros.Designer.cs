@@ -125,6 +125,8 @@
             // 
             // txtCodigo
             // 
+            this.txtCodigo.Enabled = false;
+            this.txtCodigo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigo.Location = new System.Drawing.Point(165, 74);
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(100, 20);
@@ -132,6 +134,8 @@
             // 
             // txtCodigoEdit
             // 
+            this.txtCodigoEdit.Enabled = false;
+            this.txtCodigoEdit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoEdit.Location = new System.Drawing.Point(165, 158);
             this.txtCodigoEdit.Name = "txtCodigoEdit";
             this.txtCodigoEdit.Size = new System.Drawing.Size(148, 20);
@@ -139,6 +143,8 @@
             // 
             // txtNombre
             // 
+            this.txtNombre.Enabled = false;
+            this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNombre.Location = new System.Drawing.Point(165, 114);
             this.txtNombre.Multiline = true;
             this.txtNombre.Name = "txtNombre";
@@ -147,6 +153,8 @@
             // 
             // txtCodigoDistr
             // 
+            this.txtCodigoDistr.Enabled = false;
+            this.txtCodigoDistr.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoDistr.Location = new System.Drawing.Point(165, 240);
             this.txtCodigoDistr.Name = "txtCodigoDistr";
             this.txtCodigoDistr.Size = new System.Drawing.Size(148, 20);
@@ -154,6 +162,8 @@
             // 
             // txtCodigoAut
             // 
+            this.txtCodigoAut.Enabled = false;
+            this.txtCodigoAut.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoAut.Location = new System.Drawing.Point(165, 198);
             this.txtCodigoAut.Name = "txtCodigoAut";
             this.txtCodigoAut.Size = new System.Drawing.Size(100, 20);
