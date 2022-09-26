@@ -134,7 +134,7 @@
             // 
             this.txtCodigoEdit.Location = new System.Drawing.Point(165, 158);
             this.txtCodigoEdit.Name = "txtCodigoEdit";
-            this.txtCodigoEdit.Size = new System.Drawing.Size(100, 20);
+            this.txtCodigoEdit.Size = new System.Drawing.Size(148, 20);
             this.txtCodigoEdit.TabIndex = 7;
             // 
             // txtNombre
@@ -149,7 +149,7 @@
             // 
             this.txtCodigoDistr.Location = new System.Drawing.Point(165, 240);
             this.txtCodigoDistr.Name = "txtCodigoDistr";
-            this.txtCodigoDistr.Size = new System.Drawing.Size(100, 20);
+            this.txtCodigoDistr.Size = new System.Drawing.Size(148, 20);
             this.txtCodigoDistr.TabIndex = 9;
             // 
             // txtCodigoAut

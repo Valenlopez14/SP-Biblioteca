@@ -14,6 +14,7 @@ namespace pry.LopezV.SPBiblioteca
 {
     public partial class frmConsultaLibros : Form
     {
+        char separador = Convert.ToChar(",");
         public frmConsultaLibros()
         {
             InitializeComponent();
@@ -25,7 +26,7 @@ namespace pry.LopezV.SPBiblioteca
         private void frmConsultaLibros_Load(object sender, EventArgs e)
         {
             //a la variable separador la vinculo con el caracter "," que lo utilizare para separar las lineas en el txt
-            char separador = Convert.ToChar(",");
+            
             //Contador para mover las filas de la matriz 
             int i = 0;
 
@@ -49,6 +50,10 @@ namespace pry.LopezV.SPBiblioteca
                     baseLibro[i, 3] = vecLibro[3];
                     baseLibro[i, 4] = vecLibro[4];
 
+                    //Llamar estructura Nombre Editorial que va a cambiar los numeros por los codigos
+                    NombreEditorial(i);
+                    //Llamar estructura Nombre Distribuidora que va a cambiar los numeros por los codigos correspondientes
+                    NombreDistribuidora(i);
                     i++;
 
                 }
@@ -118,6 +123,47 @@ namespace pry.LopezV.SPBiblioteca
             else
             {
                 cmdRetroceder.Enabled = true;
+            }
+        }
+        private void NombreEditorial(int iMatriz)
+        {
+            //Leer el archivo 
+            StreamReader LectorEditorial = new StreamReader("./EDITORIAL.txt");
+
+            while (!LectorEditorial.EndOfStream)
+            {
+                //Comparar el codigo del libro con el codigo de EDITORIAL 
+                //En vez de devolver el codigo, devuelve el nombre de la edito 
+
+                string[] vecEditorial = LectorEditorial.ReadLine().Split(separador);
+
+                //Cambio el codigo por el nombre correspondiente
+                if (vecEditorial[0] == baseLibro[iMatriz,2])
+                {
+                    //Sobrescribo en la columna el nombre de la editorial almacenado en el vector
+                    baseLibro[iMatriz,2] = vecEditorial[1];
+                }
+            }
+            LectorEditorial.Close();
+        }
+        private void NombreDistribuidora(int iMatriz)
+        {
+            //Leer el archivo 
+            StreamReader LectorDistribuidora = new StreamReader("./DISTRIBUIDORA.txt");
+
+            while (!LectorDistribuidora.EndOfStream)
+            {
+                //Comparar el codigo del libro con el codigo de EDITORIAL 
+                //En vez de devolver el codigo, devuelve el nombre de la edito 
+
+                string[] vecDistribuidora = LectorDistribuidora.ReadLine().Split(separador);
+
+                //Cambio el codigo por el nombre correspondiente
+                if (vecDistribuidora[0] == baseLibro[iMatriz, 4])
+                {
+                    //Sobrescribo en la columna el nombre de la editorial almacenado en el vector
+                    baseLibro[iMatriz, 4] = vecDistribuidora[1];
+                }
             }
         }
     }
